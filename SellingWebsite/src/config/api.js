@@ -3,6 +3,7 @@ import axios from 'axios';
 // Base URL configuration - change this to update the entire app
 // const BASE_URL = 'http://localhost:3000';
 const BASE_URL = 'https://microsoft-bc4e.onrender.com';
+// const BASE_URL = 'http://f4wwc0sw04wwgg8gok48okw4.103.211.18.182.sslip.io/';
 
 // Create axios instance with base configuration
 const api = axios.create({
